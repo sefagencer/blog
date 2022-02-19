@@ -7,7 +7,7 @@ body{
 }
 .home{
     text-decoration: none;
-    color: rgb(24, 22, 22);
+    color: blue;
     font-size: 30px;
     margin:15px;
     font-family:'Courier New', Courier, monospace;
@@ -94,7 +94,7 @@ height:115px;
 .works:hover{
     width:200px;
     border-radius: 10px;
-    background-color: rgb(0, 0, 172);
+    background-color: rgb(31, 31, 173);
 
 }
 .goto{
@@ -104,17 +104,11 @@ height:115px;
 }
 .goto:hover{
     color:white;
-    font-size: 16px;
+    font-size: 15px;
    
 
 }
 .text{
     color:rgb(24, 22, 22);
     font-family: 'Courier New', Courier, monospace;
-}
-.image{
-    width:350px;
-    height:350px;
-    margin-left:auto ;
-    border: 1px solid white;
 }
